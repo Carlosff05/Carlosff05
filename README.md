@@ -5,6 +5,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently a professional training student of Multiplatform Applications Development
-- 🌱 I’m currently learning Java, SQL, HTML, Javascript...
+- 🌱 I’m currently learning Java, C#, SQL...
 - 🤔 I’m looking for help with programming languages
 - 📫 How to reach me: Carlosff05@gmail.com
